@@ -1,0 +1,6 @@
+server:
+  port: 8088
+
+logging:
+  file:
+    name: wikiapi-rest.log
