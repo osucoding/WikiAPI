@@ -34,7 +34,7 @@ build/
 .vscode/
 
 ### wikiapi-rest logs ###
-*.log
+*.log.*.gz
 
 ##### wikiapi-web #####
 # Logs
